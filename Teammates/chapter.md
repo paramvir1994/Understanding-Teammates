@@ -65,16 +65,17 @@ Teammates strives to provide anonymous peer evaluation and feedback, while also 
 
 ## Supervisors <a name="supervisors"></a>
 
-1. [Neil Ernst](https://github.com/SENG480-18/USDSA/tree/e0a76c0a779347afde0624005d3b1a7715061245/SwaggerUi/@neilernst/README.md)
-2. [Omar Elazhary](https://github.com/SENG480-18/USDSA/tree/e0a76c0a779347afde0624005d3b1a7715061245/SwaggerUi/@omazhary/README.md)
+1. Neil Ernst
+2. Omar Elazhary
 
 ## Team <a name="team"></a>
 
-1. Adeshina Alani
-2. Karan Tongay
-3. Jamie Hale
-4. Ryan Woodward
-5. Paramvir Singh
+1. Paramvir Singh
+2. Adeshina Alani
+3. Karan Tongay
+4. Jamie Hale
+5. Ryan Woodward
+
 
 ## 2.0 Stakeholder Analysis <a name="stakeholders"></a>
 
